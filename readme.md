@@ -1,2 +1,20 @@
 
-# This is a public repo by Chris Kowalczyk
+# Final-Project App
+
+Final project app text here.
+
+## Table of Contents
+
+- [Features]
+- [Installation]
+- [Usage]
+- [Screenshots]
+- [Contributing]
+- [License]
+- [Contact]
+
+### Features
+
+
+
+
