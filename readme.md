@@ -5,7 +5,7 @@ Final project app text here.
 
 ## Table of Contents
 
-- [Features]
+- [Features] (#Features)
 - [Installation]
 - [Usage]
 - [Screenshots]
@@ -14,6 +14,11 @@ Final project app text here.
 - [Contact]
 
 ### Features
+- Feature 1: ....
+- Feature 2: ....
+
+
+
 
 
 
